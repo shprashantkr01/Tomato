@@ -1,17 +1,6 @@
 
 # Online-Food-Ordering-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#system-description-and-functions">System Description and Functions</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#links">Links</a></li>
-  </ol>
-</details>
+Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS.
 
 ## System Description and Functions
 
